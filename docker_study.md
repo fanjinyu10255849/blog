@@ -32,6 +32,7 @@ docker images
 - IMAGE ID：镜像ID
 - CREATED：镜像创建时间
 - SIZE：镜像大小
+
 使用 REPOSITORY:TAG 来定义不同的镜像，不指定镜像TAG，默认使用latest
 ##### 查找镜像
 ```
