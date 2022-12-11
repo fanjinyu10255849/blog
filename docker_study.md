@@ -1,7 +1,7 @@
-#dock 学习
-##1 注册docker账号
+# dock 学习
+## 1 注册docker账号
 https://hub.docker.com/
-##2 docker客户端常用命令
+## 2 docker客户端常用命令
 ##### 查看docker客户端所有命令
 ```
 docker
