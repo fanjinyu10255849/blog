@@ -27,11 +27,11 @@ docker pull <image>
 docker images
 ```
 其中，
-REPOSITORY：表示镜像的仓库源
-TAG：镜像的标签
-IMAGE ID：镜像ID
-CREATED：镜像创建时间
-SIZE：镜像大小
+- REPOSITORY：表示镜像的仓库源
+- TAG：镜像的标签
+- IMAGE ID：镜像ID
+- CREATED：镜像创建时间
+- SIZE：镜像大小
 使用 REPOSITORY:TAG 来定义不同的镜像，不指定镜像TAG，默认使用latest
 ##### 查找镜像
 ```
